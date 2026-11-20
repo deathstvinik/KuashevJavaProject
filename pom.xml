@@ -15,7 +15,7 @@
     </properties>
 
     <dependencies>
-        <!-- Внешняя библиотека для современного оформления Swing GUI -->
+        <!-- Внешняя библиотека для оформления Swing GUI -->
         <dependency>
             <groupId>com.formdev</groupId>
             <artifactId>flatlaf</artifactId>
